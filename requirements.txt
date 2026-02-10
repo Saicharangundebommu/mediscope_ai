@@ -1,5 +1,6 @@
 Flask
 Werkzeug
+gunicorn
 
 opencv-python
 numpy>=1.26.0
